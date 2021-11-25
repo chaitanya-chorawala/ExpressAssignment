@@ -9,7 +9,7 @@ const products = [
     },
     {
         ProductID : "2",
-        Title : "Google MINI",
+        Title : "GoogleMINI",
         Price : "2500",
         Category : ["Gadgets","Electronics"],
         CompanyID : "2",

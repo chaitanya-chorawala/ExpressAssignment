@@ -12,5 +12,4 @@ app.use("/company",companyRoute);
 app.use("/seller",sellerRoute);
 
 app.get('/', (req, res) => res.send('Hello World!'))
-app.get("/products",productRoute);
 app.listen(port, () => console.log(`Example app listening on port ${port}!`))
